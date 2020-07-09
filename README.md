@@ -1,16 +1,22 @@
 ### Olá pessoal 👋
 
-Atualmente trabalho com Dart e Flutter para desenvolvimento mobile e C# para o backend. Estou tomando cada dia mais gosto pela organização da arquitetura e pra isso a referência é o estudo da Clean Architecture. Recomendo demais conhecer seus conceitos, mesmo não sendo possível aplicar em tudo a princípio, o ganho é enorme.
+Trabalho com Dart e Flutter para desenvolvimento mobile e C# para o backend.
 
-- 📫 Como me achar:
-  Twitter: @Leohpaim
+Aprendendo o Clean Architecture também, afinal, qualidade importa e muito.
+
+- 📫 **Como me achar**:
+
+  - Twitter: @Leohpaim
   
-  instagram: leohpaim
+  - instagram: leohpaim
   
-  facebook: leohpaim
+  - facebook: leohpaim
    
-  <img src="https://cdn.iconscout.com/icon/free/png-256/linkedin-208-916919.png" width="25" height="25"> -> [leohpaim](https://www.linkedin.com/in/leohpaim/)
+  - linkedin: leohpaim  
 <!--
+
+<img src="https://cdn.iconscout.com/icon/free/png-256/linkedin-208-916919.png" width="25" height="25"> -> [leohpaim](https://www.linkedin.com/in/leohpaim/)
+
 **leonardopaim/leonardopaim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
