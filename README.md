@@ -1,4 +1,4 @@
-### Olá pessoal 👋... Eu sou o Leonardo Paim, developer e torcedor do Galo! 😁
+### Olá pessoal 👋... Eu sou o Léo, developer e torcedor do Galo! 😁
 
 ##
 
