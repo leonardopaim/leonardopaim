@@ -1,5 +1,3 @@
-### Olá pessoal 👋... Eu sou o Léo, developer e torcedor do Galo! 😁
-
 ##
 
 <div align="left">
