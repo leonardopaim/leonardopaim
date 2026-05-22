@@ -1,8 +1,6 @@
 # Leonardo Paim
 
-```
-Backend | Arquitetura de Software | Observabilidade
-```
+`Backend | Arquitetura de Software | Observabilidade`
 
 Trabalhando atualmente com:
 - .NET Framework
