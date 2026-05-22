@@ -1,6 +1,6 @@
 # Leonardo Paim
 
-```csharp
+```
 Backend Engineer | Software Architect | Observability Enthusiast
 ```
 
