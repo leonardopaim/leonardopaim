@@ -1,14 +1,14 @@
 # Leonardo Paim
 
 ```
-Backend Engineer | Software Architect | Observability Enthusiast
+Backend | Arquitetura de Software | Observabilidade
 ```
 
-Especialista em:
-- .NET Framework & .NET 8
-- MySQL Performance
+Trabalhando atualmente com:
+- .NET Framework
+- Performance MySQL
 - Observabilidade e Telemetria
-- Docker & AWS
+- Docker
 - Sistemas ERP Multi-tenant
 - Arquitetura de Software
 
@@ -24,10 +24,10 @@ Especialista em:
 
 ---
 
-## Atualmente estudando
+## Estudando
 
-- Telemetria
-- Performance
+- Telemetria de software
+- Performance de sistemas
 - Arquitetura escalável
 - IA aplicada ao desenvolvimento
 - Golang
