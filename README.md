@@ -1,27 +1,57 @@
-##
+# Leonardo Paim
 
-<div align="left">
-  <a href="https://github.com/leonardopaim">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardopaim&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardopaim&layout=compact&langs_count=7&theme=dark"/>
-</div>
+```csharp
+Backend Engineer | Software Architect | Observability Enthusiast
+```
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Leo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Leo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Leo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Leo-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Leo-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
-  <img align="center" alt="Leo-Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
-</div>
-  
-##
-  
-<div> 
-  <a href="https://instagram.com/leohpaim" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:leohpaim@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/leohpaim" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/leonardopaim/leonardopaim/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+Especialista em:
+- .NET Framework & .NET 8
+- MySQL Performance
+- Observabilidade e Telemetria
+- Docker & AWS
+- Sistemas ERP Multi-tenant
+- Arquitetura de Software
+
+---
+
+## Tech Stack
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,mysql,docker,aws,git,github,javascript"/>
+
+</p>
+
+---
+
+## Atualmente estudando
+
+- Telemetria
+- Performance
+- Arquitetura escalável
+- IA aplicada ao desenvolvimento
+- Golang
+
+---
+
+## Projetos e Interesses
+
+- Observabilidade em aplicações .NET
+- Monitoramento de banco de dados MySQL
+- Ferramentas internas de automação
+- Migração .NET Framework → .NET 8/10
+- Processamento fiscal e ERP
+
+---
+
+## Contato
+
+<p>
+<a href="https://linkedin.com/in/leohpaim">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:leohpaim@hotmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
