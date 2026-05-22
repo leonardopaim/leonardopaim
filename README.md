@@ -16,7 +16,7 @@ Trabalhando atualmente com:
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,mysql,docker,aws,git,github,javascript"/>
+<img src="https://skillicons.dev/icons?i=cs,dotnet,mysql,docker,git,github,javascript"/>
 
 </p>
 
